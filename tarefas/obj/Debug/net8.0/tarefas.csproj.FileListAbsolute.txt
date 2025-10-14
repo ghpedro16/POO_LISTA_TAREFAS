@@ -1,0 +1,6 @@
+/workspaces/POO_LISTA_TAREFAS/tarefas/obj/Debug/net8.0/tarefas.csproj.AssemblyReference.cache
+/workspaces/POO_LISTA_TAREFAS/tarefas/obj/Debug/net8.0/tarefas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO_LISTA_TAREFAS/tarefas/obj/Debug/net8.0/tarefas.AssemblyInfoInputs.cache
+/workspaces/POO_LISTA_TAREFAS/tarefas/obj/Debug/net8.0/tarefas.AssemblyInfo.cs
+/workspaces/POO_LISTA_TAREFAS/tarefas/obj/Debug/net8.0/tarefas.csproj.CoreCompileInputs.cache
+/workspaces/POO_LISTA_TAREFAS/tarefas/obj/Debug/net8.0/tarefas.sourcelink.json
